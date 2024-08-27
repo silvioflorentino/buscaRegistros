@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buscaRegistros", "buscaRegistros\buscaRegistros.csproj", "{391B0137-33BB-4EA9-9396-B3E459DE7127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391B0137-33BB-4EA9-9396-B3E459DE7127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391B0137-33BB-4EA9-9396-B3E459DE7127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391B0137-33BB-4EA9-9396-B3E459DE7127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391B0137-33BB-4EA9-9396-B3E459DE7127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871EC37B-B2DC-4024-A1AA-283DE2078F4A}
+	EndGlobalSection
+EndGlobal
